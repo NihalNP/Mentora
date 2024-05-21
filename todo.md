@@ -1,0 +1,1 @@
+- use zod schemas and store it in a diff file
